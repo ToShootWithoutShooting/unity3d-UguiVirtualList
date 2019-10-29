@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1fcdd3c2e4f2f946af02e89133506b6, type: 3}
+  m_Name: StoryConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: StoryInfo
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Demo.StoryInfo,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 7
+      Data: Demo.StoryInfo, Assembly-CSharp
+    - Name: StoryID
+      Entry: 3
+      Data: 0
+    - Name: Dialogs
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Demo.TempDia, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: Demo.TempDia, Assembly-CSharp
+    - Name: BackImg
+      Entry: 1
+      Data: BG_1
+    - Name: SpeakID
+      Entry: 3
+      Data: 0
+    - Name: OtherID
+      Entry: 3
+      Data: -1
+    - Name: SpeakImg
+      Entry: 1
+      Data: hui_shocked_B
+    - Name: TextPlayTime
+      Entry: 4
+      Data: 1
+    - Name: IsShake
+      Entry: 5
+      Data: false
+    - Name: Content
+      Entry: 1
+      Data: "offer\u4E0A\u7684\u5730\u5740\u2026\u2026\u5C31\u662F\u8FD9\u91CC\u5427?"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.TempDia, Assembly-CSharp
+    - Name: BackImg
+      Entry: 1
+      Data: BG_1
+    - Name: SpeakID
+      Entry: 3
+      Data: 0
+    - Name: OtherID
+      Entry: 3
+      Data: -1
+    - Name: SpeakImg
+      Entry: 1
+      Data: hui_shocked_B
+    - Name: TextPlayTime
+      Entry: 4
+      Data: 1
+    - Name: IsShake
+      Entry: 5
+      Data: false
+    - Name: Content
+      Entry: 1
+      Data: "\u76DB--\u8DA3--\u6E38--\u620F"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.TempDia, Assembly-CSharp
+    - Name: BackImg
+      Entry: 1
+      Data: BG_1
+    - Name: SpeakID
+      Entry: 3
+      Data: 0
+    - Name: OtherID
+      Entry: 3
+      Data: -1
+    - Name: SpeakImg
+      Entry: 1
+      Data: hui_shocked_A
+    - Name: TextPlayTime
+      Entry: 4
+      Data: 1
+    - Name: IsShake
+      Entry: 5
+      Data: false
+    - Name: Content
+      Entry: 1
+      Data: "\u8FD9\u5C31\u662F\uFF0C\u8BDE\u751F\u4E86\u5F53\u5E74\u98CE\u9761\u5168\u56FD\u7684\u300A\u4F20\u5947\u300B\u548C\u300A\u6C38\u6052\u4E4B\u5854\u300B\u7684\u5730\u65B9\u554A\u2026\u2026"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.TempDia, Assembly-CSharp
+    - Name: BackImg
+      Entry: 1
+      Data: BG_1
+    - Name: SpeakID
+      Entry: 3
+      Data: 0
+    - Name: OtherID
+      Entry: 3
+      Data: -1
+    - Name: SpeakImg
+      Entry: 1
+      Data: hui_normal_A
+    - Name: TextPlayTime
+      Entry: 4
+      Data: 1
+    - Name: IsShake
+      Entry: 5
+      Data: false
+    - Name: Content
+      Entry: 1
+      Data: "(\u6211\u53EB\u738B\u4FCA\u8F89,\u662F\u4E00\u540D\u6765\u81EA\u5E7F\u4E1C\u7684sunshine
+        boy--)"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.TempDia, Assembly-CSharp
+    - Name: BackImg
+      Entry: 1
+      Data: BG_1
+    - Name: SpeakID
+      Entry: 3
+      Data: 0
+    - Name: OtherID
+      Entry: 3
+      Data: -1
+    - Name: SpeakImg
+      Entry: 1
+      Data: hui_normal_A
+    - Name: TextPlayTime
+      Entry: 4
+      Data: 1
+    - Name: IsShake
+      Entry: 5
+      Data: false
+    - Name: Content
+      Entry: 1
+      Data: "(\u6BD5\u4E1A\u4E4B\u540E,\u6211\u7ED3\u675F\u4E86\u5728\u53D9\u5229\u4E9A\u7684\u96C7\u4F63\u5175\u751F\u6DAF,\u6765\u5230\u4E86\u68A6\u5BD0\u4EE5\u6C42\u7684\u9B54\u90FD---\u4E0A\u6D77)"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.TempDia, Assembly-CSharp
+    - Name: BackImg
+      Entry: 1
+      Data: BG_1
+    - Name: SpeakID
+      Entry: 3
+      Data: 0
+    - Name: OtherID
+      Entry: 3
+      Data: -1
+    - Name: SpeakImg
+      Entry: 1
+      Data: hui_normal_A
+    - Name: TextPlayTime
+      Entry: 4
+      Data: 1
+    - Name: IsShake
+      Entry: 5
+      Data: false
+    - Name: Content
+      Entry: 1
+      Data: "\uFF08\u7ACB\u5FD7\u6210\u4E3A\u4E00\u540D\u4F18\u79C0\u6E38\u620F\u7B56\u5212\u7684\u6211\uFF0C\u9009\u62E9\u8FDB\u5165\u6E38\u620F\u884C\u4E1A\uFF0C\u7ECF\u8FC7\u51E0\u8F6E\u9762\u8BD5\uFF0C\u6211\u5982\u613F\u62FF\u5230\u5FC3\u4EEA\u516C\u53F8\u7684offer\uFF0C\u6765\u5230\u4E86\u6D77\u8DA3\u8DEF58\u53F7\u3002\uFF09"
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

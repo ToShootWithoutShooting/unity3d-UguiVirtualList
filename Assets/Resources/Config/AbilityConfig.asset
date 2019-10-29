@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c6449591775374e9c1e0ef764829e8, type: 3}
+  m_Name: AbilityConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: AbilityInfo
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Demo.AbilityInfo,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 7
+      Data: Demo.AbilityInfo, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 0
+    - Name: Name
+      Entry: 1
+      Data: "\u914D\u8868"
+    - Name: Introduce
+      Entry: 1
+      Data: "\u7B56\u5212\u65E5\u5E38\u7684\u914D\u8868\u5DE5\u4F5C"
+    - Name: AbilityType
+      Entry: 3
+      Data: 0
+    - Name: AttributesGain
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 2
+    - Name: Value
+      Entry: 3
+      Data: 11
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LearningCondition
+      Entry: 7
+      Data: Demo.LearningCondition, Assembly-CSharp
+    - Name: RoundCondition
+      Entry: 3
+      Data: 0
+    - Name: EnergyExpenditure
+      Entry: 3
+      Data: 1
+    - Name: AttributeConditions
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 0
+    - Name: Value
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Demo.AbilityInfo, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: Name
+      Entry: 1
+      Data: "\u6478\u9C7C"
+    - Name: Introduce
+      Entry: 1
+      Data: "\u6478\u9C7C\u662F\u5DE5\u4F5C\u5FEB\u4E50\u7684\u6E90\u6CC9"
+    - Name: AbilityType
+      Entry: 3
+      Data: 0
+    - Name: AttributesGain
+      Entry: 7
+      Data: 4|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 1
+    - Name: Value
+      Entry: 3
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LearningCondition
+      Entry: 7
+      Data: Demo.LearningCondition, Assembly-CSharp
+    - Name: RoundCondition
+      Entry: 3
+      Data: 0
+    - Name: EnergyExpenditure
+      Entry: 3
+      Data: 0
+    - Name: AttributeConditions
+      Entry: 7
+      Data: 5|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: Demo.AbilityInfo, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 2
+    - Name: Name
+      Entry: 1
+      Data: "\u795E\u7684\u529B\u91CF"
+    - Name: Introduce
+      Entry: 1
+      Data: "\u795E\u7684\u529B\u91CF\uFF01\u4F60\u65E0\u6CD5\u62E5\u6709"
+    - Name: AbilityType
+      Entry: 3
+      Data: 1
+    - Name: AttributesGain
+      Entry: 7
+      Data: 6|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 0
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 1
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 2
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 3
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LearningCondition
+      Entry: 7
+      Data: Demo.LearningCondition, Assembly-CSharp
+    - Name: RoundCondition
+      Entry: 3
+      Data: 0
+    - Name: EnergyExpenditure
+      Entry: 3
+      Data: 999
+    - Name: AttributeConditions
+      Entry: 7
+      Data: 7|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 0
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 1
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 2
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 3
+    - Name: Value
+      Entry: 3
+      Data: 999
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: Demo.AbilityInfo, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 3
+    - Name: Name
+      Entry: 1
+      Data: "\u5B66\u4E60c#"
+    - Name: Introduce
+      Entry: 1
+      Data: "\u8EAB\u4E3A\u7B56\u5212\u600E\u4E48\u53EF\u4EE5\u4E0D\u56DE\u6572\u4EE3\u7801"
+    - Name: AbilityType
+      Entry: 3
+      Data: 1
+    - Name: AttributesGain
+      Entry: 7
+      Data: 8|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: Demo.Attribute, Assembly-CSharp
+    - Name: AttributeType
+      Entry: 3
+      Data: 2
+    - Name: Value
+      Entry: 3
+      Data: 22
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LearningCondition
+      Entry: 7
+      Data: Demo.LearningCondition, Assembly-CSharp
+    - Name: RoundCondition
+      Entry: 3
+      Data: 0
+    - Name: EnergyExpenditure
+      Entry: 3
+      Data: 1
+    - Name: AttributeConditions
+      Entry: 7
+      Data: 9|System.Collections.Generic.List`1[[Demo.Attribute, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
